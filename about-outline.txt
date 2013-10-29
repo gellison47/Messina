@@ -1,5 +1,5 @@
-Title: Messina - Statements of Fashion
-	A. Nav
+I. Messina: Statements of Fashion (H1)
+	A. Site Nav
 		1.Women's
 		2.Bath
 		3.Men's
